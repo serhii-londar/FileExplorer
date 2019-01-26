@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0700"
+   LastUpgradeVersion = "1010"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1B15FCFBB0C8F8A9966C43C4D9D1DFDF"
+               BlueprintIdentifier = "F5338667C75F34C89C48335693219BF9"
                BuildableName = "Pods_FileExplorerTests.framework"
                BlueprintName = "Pods-FileExplorerTests"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1B15FCFBB0C8F8A9966C43C4D9D1DFDF"
+            BlueprintIdentifier = "F5338667C75F34C89C48335693219BF9"
             BuildableName = "Pods_FileExplorerTests.framework"
             BlueprintName = "Pods-FileExplorerTests"
             ReferencedContainer = "container:Pods.xcodeproj">
